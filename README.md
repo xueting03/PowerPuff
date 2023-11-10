@@ -9,6 +9,11 @@ PowerPuff is a website aim to help the community in handling and addressing depr
 | Wong Jing Wen   | University Malaya  | UI/UX Designer        |
 | Chin Xue Ting   | University Malaya  | Frontend Developer    |
 
+# Technology Used
+1. JavaScript
+2. CSS
+3. HTML
+
 # Main Function of PowerPuff
 1. Emotion Detection through Text:
 - Implement Natural Language Processing (NLP) algorithms to analyze the words and sentences users type in.
